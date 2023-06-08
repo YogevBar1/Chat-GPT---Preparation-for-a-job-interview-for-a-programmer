@@ -1,0 +1,23 @@
+.q{
+    color: green;
+    cursor: pointer;
+}
+
+.a{
+    color:blue;
+    display: none;
+}
+
+h1,h2{
+    text-align: center;
+    color: green;
+    
+}
+
+body{
+    background-color: yellow;
+}
+
+#intro-text{
+    text-align: center;
+}
