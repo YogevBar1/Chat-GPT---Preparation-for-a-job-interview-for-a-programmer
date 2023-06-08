@@ -98,7 +98,7 @@
     // }
 
     async function getCompletion(prompt) {
-        const apiKey = `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`;
+        const apiKey = `Censored, the real API is kept by me`;
         const url = `https://api.openai.com/v1/engines/text-davinci-003/completions`;
 
         const requestBody = {
